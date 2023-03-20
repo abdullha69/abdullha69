@@ -1,4 +1,4 @@
-![ Web Developer](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/334212470_904782847431770_5373175440555495408_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFuTMnlaz54FftgmmR2cHkYYfWa5aZcNwBh9Zrlplw3AOJiMaUFi8sViWBuMpE-PJtZQlA8bVAEoSla87Ykgds3&_nc_ohc=pv9z4VIwqT8AX_Jcbmp&_nc_ht=scontent.fdac19-1.fna&oh=00_AfDNHdUsbtNuK63offtHZ_foqQr9EWnHCZ09-3dOMB6c_g&oe=641C7B61)
+
 
 ## Hi there 👋,
 # I'am Abdullha Hill Oneir
