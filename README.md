@@ -1,16 +1,47 @@
-  ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdullha Hill Oneir</h1>
+<h3 align="center">💻 CSE Undergraduate | Green University of Bangladesh </h3>
 
-      <!--
-**abdullha69/abdullha69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullha69&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+<br/>
+
+
+## Github Stats -
+
+
+
+<a> 
+  <a href="https://github.com/abdullha69"><img alt="Oneir's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullha69&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abdullha69"><img alt="Oneir's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullha69&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+<p align="center">
+  <a href="https://github.com/abdullha69">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullha69&theme=radical" alt="Oneir's GitHub Contribution"/>
+  </a>
+</p>
+
+![Oneir's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullha69&custom_title=Oneir's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
