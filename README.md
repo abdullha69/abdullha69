@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullha69&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" />
 </p>
 
 ---
@@ -23,18 +23,43 @@
 
 ---
 
+## ⏱️ My Learning Timeline  
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/2016–2019-Scout%20Experience-blue?style=for-the-badge" alt="2018-2019"/>
+  <img src="https://img.shields.io/badge/2022-Started%20C%20%26%20C++-green?style=for-the-badge" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/2023-Learned%20Java-ff4500?style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/2024-Learned%20Python%20%26%20Web-green?style=for-the-badge" alt="Python/Web"/>
+  <img src="https://img.shields.io/badge/2025-Mobile%20App%20Development-blueviolet?style=for-the-badge" alt="Mobile App Dev"/>
+</p>
+
+---
+
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql&theme=light" width="400"/>
+</p>
+
+---
+
+## 📌 Quick Stats  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullha69&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/forks/abdullha69/AdditionLoginApp?style=for-the-badge&color=ED8B00" alt="Forks"/>
+  <img src="https://img.shields.io/github/stars/abdullha69?style=for-the-badge&color=F85D7F" alt="Stars"/>
+  <img src="https://img.shields.io/github/repo-size/abdullha69/AdditionLoginApp?style=for-the-badge&color=2BAD60" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/issues/abdullha69/AdditionLoginApp?style=for-the-badge&color=F4B400" alt="Issues"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullha69&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -43,16 +68,16 @@
 
 <p align="center">
   <a href="https://github.com/abdullha69">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullha69&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullha69&show_icons=true&theme=radical&count_private=true" height="200" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/abdullha69">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullha69&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullha69&layout=compact&theme=radical" height="200" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abdullha69">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullha69&theme=radical" alt="GitHub Contribution Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullha69&theme=radical" alt="Profile Summary"/>
   </a>
 </p>
 
@@ -62,16 +87,49 @@
 
 ---
 
+## 🌟 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/abdullha69/AdditionLoginApp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullha69&repo=AdditionLoginApp&theme=radical&show_owner=true" alt="AdditionLoginApp" />
+  </a>
+  <a href="https://github.com/abdullha69/DivisionLoginApp" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullha69&repo=DivisionLoginApp&theme=radical&show_owner=true" alt="DivisionLoginApp" />
+  </a>
+</p>
+
+---
+
+
 ## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullha69" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:abdullha.oneir@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/abdullha69">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <a href="https://www.facebook.com/abdullhahilloneirfb69" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/abdullha_69/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@abdullhahilloneir" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+</p>
+
+---
+
+## ✨ Extra Fun Animations  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Sparkle Animation"/>
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="100" alt="Stars Animation"/>
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="100" alt="Coding Animation"/>
 </p>
