@@ -84,13 +84,13 @@
 <p align="center">
 
   <!-- Project 1 -->
-  <a href="https://github.com/abdullha69/AdditionLoginApp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullha69&repo=AdditionLoginApp&theme=radical&show_owner=true" alt="AdditionLoginApp" />
+  <a href="https://github.com/abdullha69/TaskMaster_Advanced_ToDo_Java" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullha69&repo=TaskMaster_Advanced_ToDo_Java&theme=radical&show_owner=true" alt="TaskMaster_Advanced_ToDo_Java" />
   </a>
 
   <!-- Project 2 -->
-  <a href="https://github.com/abdullha69/DivisionLoginApp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullha69&repo=DivisionLoginApp&theme=radical&show_owner=true" alt="DivisionLoginApp" />
+  <a href="https://github.com/abdullha69/Voting-Management-Based-Application-System" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullha69&repo=Voting-Management-Based-Application-System&theme=radical&show_owner=true" alt="Voting-Management-Based-Application-System" />
   </a>
 
   <!-- Project 3 (Example, just duplicate this block for new projects) -->
