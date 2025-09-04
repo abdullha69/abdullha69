@@ -82,15 +82,26 @@
 ## 🌟 Featured Projects  
 
 <p align="center">
+
+  <!-- Project 1 -->
   <a href="https://github.com/abdullha69/AdditionLoginApp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullha69&repo=AdditionLoginApp&theme=radical&show_owner=true" alt="AdditionLoginApp" />
   </a>
+
+  <!-- Project 2 -->
   <a href="https://github.com/abdullha69/DivisionLoginApp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullha69&repo=DivisionLoginApp&theme=radical&show_owner=true" alt="DivisionLoginApp" />
   </a>
+
+  <!-- Project 3 (Example, just duplicate this block for new projects) -->
+  <!--
+  <a href="https://github.com/abdullha69/YourNewProject" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullha69&repo=YourNewProject&theme=radical&show_owner=true" alt="YourNewProject" />
+  </a>
+  -->
+
 </p>
 
----
 
 ## 🌐 Connect With Me  
 
