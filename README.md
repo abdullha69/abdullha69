@@ -15,14 +15,6 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 CSE Undergraduate @ Green University of Bangladesh  
-- 💻 Passionate about **Mobile App Development** & **Full-Stack Development**  
-- 🌱 Currently exploring **Android | AI | Cloud**  
-- 📫 Reach me at **abdullha.oneir@gmail.com**
-
----
-
 ## ⏱️ My Learning Timeline  
 
 <p align="center">
